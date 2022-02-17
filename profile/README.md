@@ -1,11 +1,12 @@
+
 <table align="center" style="margin: 0px auto;">
   <tr align="center">
     <td style="vertical-align:middle">
-      <img style="height: 2em;" src="profile/images/download.png"><a href="http://setup.open-systems-pharmacology.org">Latest suite release can be found here</a>
+    :grinning: <a href="http://setup.open-systems-pharmacology.org" Latest suite release can be found here</a>
     </td>
     <td style="vertical-align:middle">
-   <img style="height: 2em;" src="profile/images/documentation.png"><a href="https://docs.open-systems-pharmacology.org">Check our documentation</a></td>
-    <td><img style="height: 2em;" src="profile/images/forum.png"><a href="http://forum.open-systems-pharmacology.org">Need help? Visit the discussion forum</a></td>
+  :grinning: <a href="https://docs.open-systems-pharmacology.org">Check our documentation</a></td>
+    <td>:grinning:<a href="http://forum.open-systems-pharmacology.org">Need help? Visit the discussion forum</a></td>
   </tr>
   <tr align="center">
     <td style="vertical-align:middle">
