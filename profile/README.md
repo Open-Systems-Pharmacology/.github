@@ -2,11 +2,11 @@
 <table align="center" style="margin: 0px auto;">
   <tr align="center">
     <td style="vertical-align:middle">
-    :grinning: <a href="http://setup.open-systems-pharmacology.org" Latest suite release can be found here</a>
+    :arrow_down: <a href="http://setup.open-systems-pharmacology.org"> Latest suite release can be found here</a>
     </td>
     <td style="vertical-align:middle">
-  :grinning: <a href="https://docs.open-systems-pharmacology.org">Check our documentation</a></td>
-    <td>:grinning:<a href="http://forum.open-systems-pharmacology.org">Need help? Visit the discussion forum</a></td>
+  :blue_book: <a href="https://docs.open-systems-pharmacology.org">Check our documentation</a></td>
+    <td>:question:<a href="http://forum.open-systems-pharmacology.org">Need help? Visit the discussion forum</a></td>
   </tr>
   <tr align="center">
     <td style="vertical-align:middle">
