@@ -1,3 +1,4 @@
+<h1 align="center"><a href="https://github.com/Open-Systems-Pharmacology/Forum/discussions/1196">Beta-Release of PK-Sim 11 and MoBi 11</a></h1>
 
 <table align="center" style="margin: 0px auto;">
   <tr align="center">
