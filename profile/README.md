@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Open-Systems-Pharmacology/Suite/releases/tag/v11.0">OSP Suite Version 11 released</a></h1>
+<h1 align="center"><a href="https://github.com/Open-Systems-Pharmacology/Suite/releases/tag/v11.1">OSP Suite Version 11 Update 1 released</a></h1>
 <table align="center" style="margin: 0px auto;">
   <tr align="center">
     <td style="vertical-align:middle">
