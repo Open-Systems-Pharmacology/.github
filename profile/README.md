@@ -15,6 +15,9 @@
     <td><a href="https://github.com/Open-Systems-Pharmacology/OSP-based-publications-and-content/issues?q=is%3Aopen+is%3Aissue+label%3AJournal">Journal publications</a></td>
   </tr>
   <tr align="center">
+    <td colspan=3 style="margin: 0px auto;"><a href="https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/CREATING_MODEL_REPOSITORY.md"><b>How do I upload a model?</b></a></td>
+  </tr>
+  <tr align="center">
     <td colspan=3 style="margin: 0px auto;"><a href="https://github.com/Open-Systems-Pharmacology/Roadmap">OSP Roadmap</a></td>
   </tr>
 </table>
