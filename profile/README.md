@@ -11,8 +11,8 @@
     <td><a href="https://github.com/Open-Systems-Pharmacology/OSP-based-publications-and-content/issues?q=is%3Aopen+is%3Aissue+label%3AJournal">Journal publications</a></td>
   </tr>
   <tr align="center">
-    <td style="margin: 0px auto;"><a href="https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/CREATING_MODEL_REPOSITORY.md"><b>How do I upload a model?</b></a></td>
-    <td style="margin: 0px auto;"><a href="https://github.com/Open-Systems-Pharmacology/Roadmap">OSP Roadmap</a></td>
-    <td style="margin: 0px auto;"><a href="https://dev.open-systems-pharmacology.org/">Documentation for developers</a></td>
+    <td><a href="https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/CREATING_MODEL_REPOSITORY.md"><b>How do I upload a model?</b></a></td>
+    <td><a href="https://github.com/Open-Systems-Pharmacology/Roadmap">OSP Roadmap</a></td>
+    <td><a href="https://dev.open-systems-pharmacology.org/">Documentation for developers</a></td>
   </tr>
 </table>
