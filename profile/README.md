@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Open-Systems-Pharmacology/Suite/releases/tag/v11.2">OSP Suite Version 11 Update 2 released</a></h1>
+<h1 align="center"><a href="https://github.com/Open-Systems-Pharmacology/Suite/releases/tag/v11.3">OSP Suite Version 11 Update 3 released</a></h1>
 <table align="center" style="margin: 0px auto;">
   <tr align="center">
     <td style="vertical-align:middle">
@@ -19,5 +19,8 @@
   </tr>
   <tr align="center">
     <td colspan=3 style="margin: 0px auto;"><a href="https://github.com/Open-Systems-Pharmacology/Roadmap">OSP Roadmap</a></td>
+  </tr>
+  <tr align="center">
+    <td colspan=3 style="margin: 0px auto;"><a href="https://dev.open-systems-pharmacology.org/">Documentation for developers</a></td>
   </tr>
 </table>
