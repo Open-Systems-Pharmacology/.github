@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Open-Systems-Pharmacology/Suite/releases/tag/v12.0_beta1">OSP Suite Version 12.0 beta 1 released</a></h1>
+<h1 align="center"><a href="https://github.com/Open-Systems-Pharmacology/Suite/releases/tag/v12.0">OSP Suite Version 12 released</a></h1>
 <table align="center" style="margin: 0px auto;">
   <tr align="center">
     <td style="vertical-align:middle">:arrow_down: <a href="http://setup.open-systems-pharmacology.org"> Latest suite release can be found here</a></td>
